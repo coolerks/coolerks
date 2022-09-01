@@ -29,9 +29,3 @@ Blog：[Moyok的博客](https://blog.integer.top)
 Email1：songxiaoxu2002@gmail.com
 
 Email2：admin@integer.top
-
-# 赞助我🧧
-
-![支付宝](https://i.loli.net/2021/07/26/v8Z7Drolht9KcXJ.jpg)
-
-![微信支付](https://i.loli.net/2021/07/26/VP9QFrm5fARMWcX.png)
