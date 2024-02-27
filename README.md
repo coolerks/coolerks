@@ -12,14 +12,3 @@
 
 
 
-# 联系我📞
-
-Telegram：[@Coolerk](https://t.me/Coolerk)
-
-Github：[coolerks](https://github.com/coolerks)
-
-Blog：[Moyok的博客](https://blog.integer.top)
-
-Email1：songxiaoxu2002@gmail.com
-
-Email2：admin@integer.top
